@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+.formRow{
+	padding-top:20px;
+	padding-left:40px;
+}
+
+.formHero span.required {
+	color: #F8E6E0;
+}
+

@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+.searchItem {
+	background-color: #6C7F8F;
+}
+
+.hero-unit.searchItem {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.hero-unit a {
+	color: #F8E6E0;
+}
+
+.infoTitle{
+	font-weight:bold;
+}
+
+img.mainPhoto{
+	width:130px;
+	height:120px;
+}

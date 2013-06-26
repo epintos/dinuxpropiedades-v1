@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+body {
+	background: url(../img/background.jpg) repeat;
+}
+
+.container {
+	margin-top: 15px
+}
+
+#content {
+	margin-top: 10px;
+}
+
+#footer {
+	margin-top: 30px;
+	padding-top: 5px;
+	text-align: center;
+	border-top: 1px solid;
+}
+
+.formHero {
+	background-color: #262A5F;
+	padding-top: 20px;
+	
+}
+
+.hero-unit form label,.hero-unit form legend,.hero-unit form button {
+	color: #F8E6E0;
+}
+
+
+
+.error, p.error {
+	color: #D80000;
+	font-size:15px;
+	font-weight:bold;
+}
+
+
+#formItem {
+	font-weight: bolder;
+}

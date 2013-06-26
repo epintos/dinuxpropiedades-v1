@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+#search .hero-unit {
+	background-color: #262A5F;
+	padding: 10px;
+	padding-bottom:5px;
+}
+
+img.welcomeImg{
+	width:550px;
+	height:360px;
+	padding-left:70px;
+}
